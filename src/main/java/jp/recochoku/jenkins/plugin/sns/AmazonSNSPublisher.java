@@ -1,4 +1,4 @@
-package jp.recochoku.mangojob;
+package jp.recochoku.jenkins.plugin.sns;
 
 import com.amazonaws.auth.AWSCredentialsProvider;
 import com.amazonaws.auth.DefaultAWSCredentialsProviderChain;
